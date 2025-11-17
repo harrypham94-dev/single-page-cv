@@ -16,7 +16,7 @@ Built with HTML, CSS, and JavaScript, bundled using Webpack.
 ---
 
 ## 🖥️ Preview
-https://github.com/harrypham94-dev/single-page-cv
+https://roadmap.sh/projects/single-page-cv
 
 [**Live Demo**](https://harrypham94-dev.github.io/single-page-cv/)
 
